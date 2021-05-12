@@ -19,14 +19,14 @@ body {
 
 h1 {
   font-family: 'Codystar', cursive;
-  /* color: #e1701a; */
-  color: #af2323;
-  font-size: 41px;
+  color: #e1701a;
+  /* color: #af2323; */
+  font-size: 50px;
   font-weight: 900;
   /* text-decoration: underline; */
   text-decoration-line: underline;
-  /* text-decoration-color: #af2323; */
-  text-decoration-color: #e1701a;
+  text-decoration-color: #af2323;
+  /* text-decoration-color: #e1701a; */
   text-decoration-style: wavy;
   text-underline-offset: 5px;
 }
